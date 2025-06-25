@@ -1,0 +1,4 @@
+﻿  Q7 l226979.cpp
+C:\Users\Lenovo\Desktop\Programing Fundamental\Lab\lab 8\lab 8\Q7 l226979.cpp(8,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Lab\lab 8\lab 8\Q7 l226979.cpp(17,23): warning C4101: 'z': unreferenced local variable
+C:\Users\Lenovo\Desktop\Programing Fundamental\Lab\lab 8\lab 8\Q7 l226979.cpp(11): error C4716: 'calculate_gpa': must return a value

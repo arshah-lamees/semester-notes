@@ -1,0 +1,4 @@
+Simulate
+a 2-player, 1-piece Ludo. You need to handle repeating 6s. Represent
+each player as an integer: int p1 = -1, p2=-2. The roll of dice is given
+by: dice = rand()%6+1;

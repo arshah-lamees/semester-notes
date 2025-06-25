@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\help.h(42,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\help.h(48,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\help.h(56,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\help.h(63,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\help.h(70,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\candy crush\Source.cpp(382,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  candy crush.vcxproj -> C:\Users\Lenovo\Desktop\Programing Fundamental\Projects\candy crush\x64\Debug\candy crush.exe

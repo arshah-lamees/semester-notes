@@ -1,0 +1,6 @@
+﻿  task2.cpp
+  task3.cpp
+C:\Users\Lenovo\Desktop\Programing Fundamental\Assignmnets\lab 5\lab 5\task3.cpp(61,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Programing Fundamental\Assignmnets\lab 5\lab 5\task3.cpp(67,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  lab 5.vcxproj -> C:\Users\Lenovo\Desktop\Programing Fundamental\Assignmnets\lab 5\x64\Debug\lab 5.exe
