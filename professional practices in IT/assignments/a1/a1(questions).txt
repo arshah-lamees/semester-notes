@@ -1,0 +1,3 @@
+Write a 2 Page Report on Legislation and Government of Pakistan Add details of how A law passes in our country, what are MoSCoW for that.
+
+The MoSCoW method is a popular prioritization technique used in software engineering to categorize features, requirements, or tasks based on their importance and urgency. The acronym MoSCoW stands for Must have, Should have, Could have, and Won't have.
